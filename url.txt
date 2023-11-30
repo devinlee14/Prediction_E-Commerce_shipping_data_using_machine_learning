@@ -1,0 +1,15 @@
+great expectation
+- Lakukan minimal 7 Expectations yang didalamnya harus ada Expectation untuk:
+to be unique
+to be between min_value and max_value
+to be in set
+to be in type list
+3 jenis Expectation yang berbeda yang tidak diajarkan pada lecture Week 2 Day 5 AM - Data Ethics & Data Validation
+
+Visualization:
+1. Bar plot
+2. Pie Chart
+3. Vertical Bar Plot
+4. Bebas
+5. Bebas
+6. Bebas
